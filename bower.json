@@ -1,0 +1,18 @@
+{
+  "name": "html2pdf",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "chenglong <chenglong.zq@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/2XL/HTMLtoPDF",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
